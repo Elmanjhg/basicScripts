@@ -1,0 +1,15 @@
+# .gitignore
+
+# IDE-specific files
+.idea/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
